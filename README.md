@@ -5,7 +5,7 @@
 - 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/riley-kenyon/) or send me an [email](mailto:riley.kenyon@colorado.edu)
 - 🌐 Portfolio: https://rileykenyon.github.io/
 
-[<img src="https://www.codewars.com/users/RileyKenyon/badges/large">](<https://www.codewars.com/users/RileyKenyon/badges/large>)
+[<img src="https://www.codewars.com/users/RileyKenyon/badges/large">](https://www.codewars.com/users/RileyKenyon)
 
 <!---
 RileyKenyon/RileyKenyon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
