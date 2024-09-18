@@ -1,7 +1,7 @@
-👋 Hello, my name is @RileyKenyon and I ❤️ Matlab
+👋 Hello, my name is @RileyKenyon and I ❤️ C++
 - ⛰️ M.S. Mechanical Engineering from the University of Colorado, Boulder 
 - 🚜 Offroad autonomous vehicles for agriculture and construction 
-- 🐳 Currently learning Docker, ROS2, C++
+- 🤖 Docker, ROS 2, C++
 - 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/riley-kenyon/) or send me an [email](mailto:riley.kenyon@colorado.edu)
 - 🌐 Portfolio: https://rileykenyon.github.io/
 
