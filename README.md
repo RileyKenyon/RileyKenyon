@@ -2,7 +2,7 @@
 - ⛰️ M.S. Mechanical Engineering from the University of Colorado, Boulder 
 - 🚜 Offroad autonomous vehicles for agriculture and construction 
 - 🤖 Docker, ROS 2, C++
-- 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/riley-kenyon/) or send me an [email](mailto:riley.kenyon@colorado.edu)
+- 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/riley-kenyon/) or send me an [email](mailto:rileykenyon@live.com)
 - 🌐 Portfolio: https://rileykenyon.github.io/
 
 [<img src="https://www.codewars.com/users/RileyKenyon/badges/large">](https://www.codewars.com/users/RileyKenyon)
